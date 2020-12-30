@@ -1,7 +1,6 @@
 ### Hi there my name is Saulo, you can call me Saul 👋
 
-<!--
-**Saul97-arch/Saul97-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Saul97-arch)]
 - 😄 Pronouns: He, him
 - ⚡ Fun fact: Love beers and all types of beverages, always in the good mood for a drink and a nice talk
--->
+
