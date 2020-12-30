@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m studying Javascript
-- 🌱 I’m React and Node
+- 🌱 I’m current learning React and Node
 - 👯 I’m looking to collaborate on opensource projects
 - 🤔 I’m looking for help with data structures and algorithms
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sauloferreira42/)](https://www.linkedin.com/in/sauloferreira42/)
