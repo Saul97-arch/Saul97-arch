@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m studying Android and back-end development
+- 🔭 I’m studying back-end development
 - 🌱 I’m current working on Android development
 - 👯 I’m looking to collaborate on opensource projects
 - 🤔 I’m always looking for help with data structures and algorithms 😅
